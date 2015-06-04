@@ -1,1 +1,3 @@
 Simple text file.
+Line number two.
+Line number three.
