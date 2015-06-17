@@ -1,0 +1,1 @@
+Created text file for use in EGit.
